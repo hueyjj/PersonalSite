@@ -1,0 +1,35 @@
+header {
+  display: block;  
+  background-color: #323232;
+  padding: 20px;
+} 
+
+section {
+  display: block;
+  overflow: auto;
+  min-width: 450px;
+}
+
+header a#logo {
+  color: white;
+  float: left;
+}
+
+header a#logo img {
+}
+
+header nav {
+  float: right;
+}
+
+header nav a:first-child {
+  margin-left: 0;
+}
+
+header nav a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-right: 10px;
+}
