@@ -1,23 +1,28 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom'
+
 import "../styles/Header.css"
+import logo from "../images/logo.svg"
+
+import Contact from "./Contact"
 
 class Header extends Component {
   render() {
     return (
-      <header>
-        <section>
-          <a id="logo" href="/">
-            <img src="/images/logo.svg" alt="No logo =(" />
-          </a>
-          <nav>
-            <a href="/">Home</a>
-            <a href="/about">About</a>
-            <a href="/projects">Projects</a>
-            <a href="/resume">Resume</a>
-            <a href="/contact">Contact</a>
-          </nav>
-        </section>
-      </header>
+        <header>
+          <section>
+            <a id="logo" href="/">
+              <img src={logo} alt="No logo =(" />
+            </a>
+            <nav>
+              <Link to="/">Home</Link>
+              <Link to="/about">About</Link>
+              <Link to="/projects">Projects</Link>
+              <Link to="/resume">Resume</Link>
+              <Link to="/contact">Contact</Link>
+            </nav>
+          </section>
+        </header>
     );
   }
 }
