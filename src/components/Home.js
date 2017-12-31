@@ -19,7 +19,7 @@ class Home extends React.Component {
           Anyway... I'm an aspiring <mark className="mark-orange">software engineer/developer/ ? </mark> hoping to add a <mark className="mark-red">twist</mark> somehow...
 
           <br /><br />
-          But for the time being I'll be hanging around at <mark className="mark-darkblue">UCSC</mark>
+          But for the time being I'll be hanging around at <mark className="mark-darkblue"><a target="_blank" href="https://www.ucsc.edu/">UCSC</a></mark>
           <br /><br />
 
           As always good luck and have fun!

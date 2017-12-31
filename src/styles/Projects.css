@@ -1,0 +1,10 @@
+.content-projects {
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.content-projects p {
+  text-align: center;
+  font-size: 20px;
+}

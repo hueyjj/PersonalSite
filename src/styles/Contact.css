@@ -1,0 +1,10 @@
+.content-contact {
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.content-contact p {
+  text-align: left;
+  font-size: 20px;
+}
