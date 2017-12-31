@@ -1,0 +1,21 @@
+<svg width="169" height="30" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title>background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="32" width="171" y="-1" x="-1"/>
+  <g stroke="null" display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_1"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="Arvo, sans-serif" font-size="24" id="svg_9" y="23.653835" x="34.431202" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">Jasper Jeng</text>
+  <g id="svg_12">
+   <line stroke="#ff7f00" stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="15.466667" x2="27.233404" y1="4.400015" x1="3.233435" stroke-opacity="null" stroke-width="1.5" fill="#ff7b00"/>
+   <line stroke="#ff7f00" stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="15.333335" x2="26.966743" y1="27.199986" x1="2.566768" stroke-opacity="null" stroke-width="1.5" fill="#ff7b00"/>
+   <line stroke="#ff7f00" stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="16.133334" x2="17.366751" y1="4.933348" x1="3.766769" stroke-opacity="null" stroke-width="1.5" fill="#ff7b00"/>
+   <line stroke="#ff7f00" stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="15.333334" x2="17.500083" y1="26.799986" x1="3.233436" stroke-opacity="null" stroke-width="1.5" fill="#ff7b00"/>
+  </g>
+ </g>
+</svg>
