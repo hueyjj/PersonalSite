@@ -1,25 +1,30 @@
 header {
   display: block;  
-  background-color: #323232;
+  background-color: #555;
   padding: 15px;
 } 
 
 section {
   display: block;
-  overflow: auto;
-  min-width: 450px;
+  min-width: 650px; 
 }
 
 header a#logo {
   color: white;
-  float: left;
+}
+
+header a#logo:hover {
 }
 
 header a#logo img {
+
+}
+
+header a#logo img:hover {
+  opacity: 0.8;
 }
 
 header nav {
-  float: right;
   margin-top: 5px;
 }
 
@@ -33,4 +38,11 @@ header nav a {
   text-decoration: none;
   margin-left: 20px;
   margin-right: 10px;
+  transition: color 0.15s ease-in-out;
+  -webkit-transition: color 0.15s ease-in-out;
+}
+
+header nav a:hover {
+  color: #ddd;
+  border-bottom: 2px solid orange;
 }
