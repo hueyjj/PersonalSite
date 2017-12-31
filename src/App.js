@@ -14,8 +14,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"/>
         <Header />
-        
         <Switch>
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
