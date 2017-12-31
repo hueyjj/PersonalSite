@@ -2,12 +2,13 @@
   text-align: left;
 }
 
-.home-content {
+.content-home {
   display: block;
   margin-left: 25%;
   margin-right: 25%;
 }
 
-.home-content p {
+.content-home p {
   text-align: left;
+  font-size: 20px;
 }
