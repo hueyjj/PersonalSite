@@ -19,6 +19,8 @@ class Header extends Component {
               <Link to="/about">About</Link>
               <Link to="/projects">Projects</Link>
               <Link to="/resume">Resume</Link>
+              <a target="__blank" title="Github" href="https://www.github.com/hueyjj">Github</a>
+              <a target="__blank" title="LinkedIn" href="https://www.linkedin.com/in/jasperjeng/">LinkedIn</a>
               <Link to="/contact">Contact</Link>
             </nav>
           </section>
