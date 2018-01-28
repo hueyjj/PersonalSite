@@ -4,6 +4,10 @@ import "../styles/About.css";
 import UpsideDownFace from "../images/UpsideDownFace.png"
 
 class About extends React.Component {
+  componentDidMount() {
+    window.location.href = "https://jasperjeng.com/about";
+  }
+  
   render() {
     return (
       <div className="content-about">
