@@ -1,2 +1,2 @@
-# Personal website build with React
+# Old personal website built with React
 www.jasperjeng.com
